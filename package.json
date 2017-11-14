@@ -1,6 +1,6 @@
 {
   "name": "@astan92/howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -10,5 +10,14 @@
   "description": "How to NPM Package",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astan92/howtonpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Astan92/howtonpm/issues"
+  },
+  "homepage": "https://github.com/Astan92/howtonpm#readme"
 }
