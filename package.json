@@ -1,0 +1,14 @@
+{
+  "name": "@astan92/howtonpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Stan Altfeld",
+  "license": "ISC",
+  "description": "How to NPM Package",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
